@@ -1,0 +1,32 @@
+;----------------------|
+; Arquivo DEF - Rock   |
+; criado por Ixnaydk   |
+;----------------------|
+
+[Info]
+name ="Ixnaydk Rock NGBC"
+displayname ="Rock"
+versiondate =29,12,2008
+mugenversion =04,14,2001
+author ="Ixnaydk"
+pal.defaults =6,3,4,2,5,1
+
+[Files]
+cmd =rock.cmd
+cns =rock.cns
+st =rock.cns
+stcommon =common1.cns
+sprite =rock.sff
+anim =rock.air
+sound =rock.snd
+pal1=rock.act
+pal2=rock2.act
+pal3=rock3.act
+pal4=rock4.act
+pal5=rock5.act
+pal6=rock6.act
+pal7=rock7.act
+pal8=rock8.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=
